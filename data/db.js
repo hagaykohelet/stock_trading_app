@@ -743,3 +743,4 @@ const stockMarket = {
 
 
 
+export default stockMarket
